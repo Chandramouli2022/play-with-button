@@ -1,0 +1,29 @@
+body {
+  background-color: burlywood;
+  color: white;
+}
+
+.article-title {
+  font-size: 30px;
+  font-family: sans-serif;
+  color: rgba(211, 103, 15, 0.976);
+  margin-left: 40px;
+}
+.article-description {
+  font-size: large;
+  color: chocolate;
+  margin-left: 40px;
+}
+.article-description-more {
+  display: none;
+}
+#article-button {
+  background-color: olivedrab;
+  border-color: lightyellow;
+  border-radius: 18px;
+  padding: 8px 16px;
+  font-size: medium;
+  font-weight: 600;
+  color: white;
+  margin-left: 40px;
+}
